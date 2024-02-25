@@ -3,9 +3,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 Software Engineer
 -----------------
-
-I love code!!
-
 * 🌍  I'm based in Charlotte, NC
 * 🖥️  See my portfolio [here](https://paezluke.vercel.app/)
 * ✉️  You can contact me at [LinkedIn](https://www.linkedin.com/in/luke-paez) or [Email](mailto:paez.estates@gmail.com)
