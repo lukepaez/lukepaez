@@ -7,7 +7,7 @@ Software Engineer
 I love code!!
 
 * 🌍  I'm based in Charlotte, NC
-* 🖥️  See my portfolio at [My website](http://comingsoon.dev)
+* 🖥️  See my portfolio [here](https://paezluke.vercel.app/)
 * ✉️  You can contact me at [LinkedIn](https://www.linkedin.com/in/luke-paez) or [Email](mailto:paez.estates@gmail.com)
 * 🚀  I am actively engaged in designing and executing a series of innovative projects, carefully crafted to demonstrate the depth of my skills
 * 🧠  I'm learning Next.js, Golang
