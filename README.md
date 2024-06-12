@@ -7,7 +7,7 @@ Software Engineer
 * 🖥️  See my portfolio [here](https://paezluke.vercel.app/)
 * ✉️  You can contact me through [LinkedIn](https://www.linkedin.com/in/luke-paez) or [Email](mailto:paez.estates@gmail.com)
 * 🚀  I am actively engaged in designing and executing a series of innovative projects, carefully crafted to demonstrate the depth of my skills
-* 🧠  I'm learning Next.js, Golang, and Gen AI 
+* 🧠  I'm learning Open Banking, Next.js, Golang, and Gen AI
 * ⚡  Real Estate Investor | Finance and Economics enthusiast
 
 ### Skills
