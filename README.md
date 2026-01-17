@@ -1,14 +1,13 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)my name is Luke Paez
 =================================================================================================================================
 
-Software Engineer
+Senior Software Engineer at Live Oak Bank
 -----------------
-* 🌍  I'm based in St Petersburg, FL
-* 🖥️  See my portfolio [here](https://paezluke.vercel.app/)
-* ✉️  You can contact me through [LinkedIn](https://www.linkedin.com/in/luke-paez) or [Email](mailto:lukepaez4@gmail.com)
-* 🚀  I am actively engaged in designing and executing a series of innovative projects, carefully crafted to demonstrate the depth of my skills
-* 🧠  I'm learning Open Banking, Next.js, Golang, and Gen AI
-* ⚡  Real Estate Investor | Finance and Economics enthusiast
+* 🌍  I'm based in Sarasota, FL
+* 🖥️  See my portfolio [here](https://paezluke.vercel.app/)
+* ✉️  You can contact me through [LinkedIn](https://www.linkedin.com/in/luke-paez) or [Email](mailto:lukepaez4@gmail.com)
+* 🚀  I'm working on AI at Live Oak Bank
+* ⚡  Real Estate Investor | Realtor
 
 ### Skills
 
